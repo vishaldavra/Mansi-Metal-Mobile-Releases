@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "versionCode": 6,
-  "releaseNotes": "100% PC ERP Light Theme, 0% Data Flashing / Wipeout Fix, Firm/Company Switcher Modal added!",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "releaseNotes": "100% PC ERP Workspace Alignment: Mansi Metals & Mansi Test exact match, white bottom navigation bar, zero dark theme remnants!",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
