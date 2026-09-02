@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "versionCode": 13,
-  "releaseNotes": "Fix Job Work Ingot summation and exact 1:1 stock math matching PC ERP (Production: 2,889kg, Ingot Stock: 2kg ₹594, Raw Stock: 0kg, Sales: ₹9,67,768).",
+  "version": "1.0.13",
+  "versionCode": 14,
+  "releaseNotes": "100% PC ERP Parity: Dynamic Parameters & Tax grids, Stage 2 Raw Material Traceability & Melter Wages, Job Work Scrap In/Out & DataGrid return, and Journal Vouchers (JV).",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "publishedDate": "2026-09-02"
+  "publishedDate": "2026-09-03"
 }
