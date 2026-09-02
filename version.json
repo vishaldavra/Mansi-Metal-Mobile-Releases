@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "versionCode": 14,
-  "releaseNotes": "100% PC ERP Parity: Dynamic Parameters & Tax grids, Stage 2 Raw Material Traceability & Melter Wages, Job Work Scrap In/Out & DataGrid return, and Journal Vouchers (JV).",
+  "version": "1.0.14",
+  "versionCode": 15,
+  "releaseNotes": "System Settings & Master Dropdowns: 15 PC ERP Master Categories dynamic management, Company Profile & Billing Series configuration, live cloud synchronization, and Furnace & Expense dynamic bindings.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
