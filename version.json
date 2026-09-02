@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
-  "releaseNotes": "Fix Shree Ram1 workspace pairing, live KPI metrics (Production 690kg, Raw Stock 3597kg, Ingot Stock 690kg), dynamic greeting (admin) & 10x API latency speedup.",
+  "version": "1.0.11",
+  "versionCode": 12,
+  "releaseNotes": "Super Admin Dynamic Multi-Firm Switching: Switch between all firms dynamically from server with instant JWT re-authentication and dynamic CompanyProfile loading.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
