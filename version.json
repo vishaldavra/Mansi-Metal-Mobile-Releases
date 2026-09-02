@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
-  "releaseNotes": "Permanent Release Key Signing: Fixes package conflict issue permanently. Pure white theme & Mansi Metals/Test firm workspaces.",
+  "version": "1.0.8",
+  "versionCode": 9,
+  "releaseNotes": "PC ERP Dashboard 1:1 Parity: 10x faster parallel data caching, Shimmer Skeleton Loaders, live stock valuation engine & dynamic greeting.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
