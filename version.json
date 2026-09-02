@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "releaseNotes": "Full UI Audit Complete: 100% unified PC ERP SaaS theme across all 31 screens! Pure slate canvas (#F1F5F9), white cards (#FFFFFF), deep brand blue (#0249AC), and slate typography.",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "releaseNotes": "100% PC ERP Light Theme, 0% Data Flashing / Wipeout Fix, Firm/Company Switcher Modal added!",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
