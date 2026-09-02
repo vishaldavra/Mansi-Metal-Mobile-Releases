@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
-  "releaseNotes": "100% PC ERP Workspace Alignment: Mansi Metals & Mansi Test exact match, white bottom navigation bar, zero dark theme remnants!",
+  "version": "1.0.7",
+  "versionCode": 8,
+  "releaseNotes": "Permanent Release Key Signing: Fixes package conflict issue permanently. Pure white theme & Mansi Metals/Test firm workspaces.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
