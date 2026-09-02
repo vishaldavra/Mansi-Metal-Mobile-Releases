@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "versionCode": 16,
-  "releaseNotes": "1) Settings page redesigned with PC ERP layout and 15 Master Categories. 2) Global Shimmer Skeletons added across all reports, registers, statements, lists & modals. 3) Purchase & Sales party auto-fill with robust field extraction, tax recalculation & searchable party modal. 4) Production batch number 100% matched with PC ERP algorithm (${prefix}-${furnaceCode}-${shiftCode}-${dateStr}-${seq:02}). 5) Job Work feature suite aligned with contractor search, scrap tracking & returns parity.",
+  "version": "1.0.16",
+  "versionCode": 17,
+  "releaseNotes": "1) Fixed auto-update dialog repeating bug. 2) Settings page redesigned with PC ERP layout and 15 Master Categories. 3) Global Shimmer Skeletons across all screens. 4) Purchase & Sales party auto-fill & searchable modal. 5) Production batch number 100% matched with PC ERP algorithm. 6) Job Work feature suite complete.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
