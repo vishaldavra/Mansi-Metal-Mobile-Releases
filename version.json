@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "versionCode": 12,
-  "releaseNotes": "Super Admin Dynamic Multi-Firm Switching: Switch between all firms dynamically from server with instant JWT re-authentication and dynamic CompanyProfile loading.",
+  "version": "1.0.12",
+  "versionCode": 13,
+  "releaseNotes": "Fix Job Work Ingot summation and exact 1:1 stock math matching PC ERP (Production: 2,889kg, Ingot Stock: 2kg ₹594, Raw Stock: 0kg, Sales: ₹9,67,768).",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
