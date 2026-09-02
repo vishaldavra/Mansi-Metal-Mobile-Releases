@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "versionCode": 5,
-  "releaseNotes": "1. In-App Update Engine: 100% automated direct download with live percentage progress bar & one-tap install.\n2. PC Software Parity: 0% data mismatch in Party Ledger, Cash/Bank Statements & Job Work.\n3. UI Audit: Unified PC ERP SaaS Light theme across all 31 screens.",
+  "releaseNotes": "Full UI Audit Complete: 100% unified PC ERP SaaS theme across all 31 screens! Pure slate canvas (#F1F5F9), white cards (#FFFFFF), deep brand blue (#0249AC), and slate typography.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-02"
 }
