@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "versionCode": 15,
-  "releaseNotes": "System Settings & Master Dropdowns: 15 PC ERP Master Categories dynamic management, Company Profile & Billing Series configuration, live cloud synchronization, and Furnace & Expense dynamic bindings.",
+  "version": "1.0.15",
+  "versionCode": 16,
+  "releaseNotes": "1) Settings page redesigned with PC ERP layout and 15 Master Categories. 2) Global Shimmer Skeletons added across all reports, registers, statements, lists & modals. 3) Purchase & Sales party auto-fill with robust field extraction, tax recalculation & searchable party modal. 4) Production batch number 100% matched with PC ERP algorithm (${prefix}-${furnaceCode}-${shiftCode}-${dateStr}-${seq:02}). 5) Job Work feature suite aligned with contractor search, scrap tracking & returns parity.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
