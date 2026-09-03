@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "versionCode": 23,
-  "releaseNotes": "Complete Job Work Overhaul 1:1 with PC ERP: 1) Party Selector with live Ingot & Scrap Balances. 2) Job Out vs Job In 2-way mode toggle. 3) 5-KPI Strip & FIFO Scrap Ledger. 4) 3-Step Furnace Production Batch with recovery yield & charges.",
+  "version": "1.0.23",
+  "versionCode": 24,
+  "releaseNotes": "Accounting PC Parity Update: 1) Fully synced Party Ledger screen with Date Filters & 4-column UI. 2) Re-designed Vouchers Hub Grid. 3) 1:1 matching Payment/Receipt Voucher entry forms with PC software.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
