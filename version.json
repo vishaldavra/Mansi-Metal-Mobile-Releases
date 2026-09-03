@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "versionCode": 22,
-  "releaseNotes": "Fix build: resolve duplicate _loadBillIntoForm and palat/border references in Purchase screen; enable tap-to-load.",
+  "version": "1.0.22",
+  "versionCode": 23,
+  "releaseNotes": "Complete Job Work Overhaul 1:1 with PC ERP: 1) Party Selector with live Ingot & Scrap Balances. 2) Job Out vs Job In 2-way mode toggle. 3) 5-KPI Strip & FIFO Scrap Ledger. 4) 3-Step Furnace Production Batch with recovery yield & charges.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
