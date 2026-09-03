@@ -1,7 +1,6 @@
 {
-  "version": "1.0.24",
-  "versionCode": 25,
-  "releaseNotes": "100% PC Parity for Job Work Module (Challan, Return, Dispatch, Khata)",
+  "version": "1.0.25",
+  "versionCode": 26,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "publishedDate": "2026-09-03"
+  "releaseNotes": "Critical Fix: In-App OTA Updater connection drop fixed. Job Work module 100% PC Parity completed."
 }
