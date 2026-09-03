@@ -1,6 +1,6 @@
 {
-  "version": "1.0.38",
-  "versionCode": 39,
+  "version": "1.0.37",
+  "versionCode": 38,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Fix data parameter field mismatch JSON payloads for all API models."
+  "releaseNotes": "Full Mobile UI Blueprint rollout: Accordion cards, underline inputs, sticky bottom actions, and centered top bars."
 }
