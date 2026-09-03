@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
-  "versionCode": 26,
+  "version": "1.0.26",
+  "versionCode": 27,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Critical Fix: In-App OTA Updater connection drop fixed. Job Work module 100% PC Parity completed."
+  "releaseNotes": "100% PC Parity for Job Work Dashboard UI, Zero-overlap Action Buttons, and OTA Updater Fix."
 }
