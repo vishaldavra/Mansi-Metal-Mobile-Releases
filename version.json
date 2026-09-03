@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "versionCode": 17,
-  "releaseNotes": "1) Fixed auto-update dialog repeating bug. 2) Settings page redesigned with PC ERP layout and 15 Master Categories. 3) Global Shimmer Skeletons across all screens. 4) Purchase & Sales party auto-fill & searchable modal. 5) Production batch number 100% matched with PC ERP algorithm. 6) Job Work feature suite complete.",
+  "version": "1.0.17",
+  "versionCode": 18,
+  "releaseNotes": "1) UI improvements: Removed redundant settings icon from dashboard top bar to improve space. 2) Fixed title overflow layout issues on home screen for smaller phones.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
