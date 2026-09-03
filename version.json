@@ -1,7 +1,7 @@
 {
-  "version": "1.0.23",
-  "versionCode": 24,
-  "releaseNotes": "Accounting PC Parity Update: 1) Fully synced Party Ledger screen with Date Filters & 4-column UI. 2) Re-designed Vouchers Hub Grid. 3) 1:1 matching Payment/Receipt Voucher entry forms with PC software.",
+  "version": "1.0.24",
+  "versionCode": 25,
+  "releaseNotes": "100% PC Parity for Job Work Module (Challan, Return, Dispatch, Khata)",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
