@@ -1,6 +1,6 @@
 {
-  "version": "1.0.31",
-  "versionCode": 32,
+  "version": "1.0.33",
+  "versionCode": 34,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Syntax & layout fix for Job Work Return and Dispatch screens, unified top sync loader, and sticky bottom action bar."
+  "releaseNotes": "Fix build compilation: resolved ingotLabel getter in dispatch screen and restored async _buildMetalLedger in party khata screen."
 }
