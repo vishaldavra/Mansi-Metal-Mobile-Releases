@@ -1,6 +1,6 @@
 {
-  "version": "1.0.29",
-  "versionCode": 30,
+  "version": "1.0.31",
+  "versionCode": 32,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "100% crash-proof dropdowns across all Job Work screens (Scrap Out, Ingot Return, Dispatch, and Khata Ledger) with defensive data fallbacks and spacious UI."
+  "releaseNotes": "Syntax & layout fix for Job Work Return and Dispatch screens, unified top sync loader, and sticky bottom action bar."
 }
