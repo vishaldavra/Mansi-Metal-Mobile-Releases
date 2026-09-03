@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "versionCode": 18,
-  "releaseNotes": "1) UI improvements: Removed redundant settings icon from dashboard top bar to improve space. 2) Fixed title overflow layout issues on home screen for smaller phones.",
+  "version": "1.0.19",
+  "versionCode": 20,
+  "releaseNotes": "1) 100% PC ERP Calculation Parity: Freight Rate/Kg x Weight bidirectional sync, Discount %/Amount bidirectional sync, Add Surcharge (+). 2) Purchase & Sale Invoices 1:1 match with PC ERP. 3) HSN Average Rate & TCS additions. 4) Accurate Postgres stock sync.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
