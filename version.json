@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "versionCode": 27,
+  "version": "1.0.28",
+  "versionCode": 29,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "100% PC Parity for Job Work Dashboard UI, Zero-overlap Action Buttons, and OTA Updater Fix."
+  "releaseNotes": "Fix build compilation error in Party Ledger screen title and bump to v1.0.28."
 }
