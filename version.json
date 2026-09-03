@@ -1,6 +1,6 @@
 {
-  "version": "1.0.28",
-  "versionCode": 29,
+  "version": "1.0.29",
+  "versionCode": 30,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Fix build compilation error in Party Ledger screen title and bump to v1.0.28."
+  "releaseNotes": "100% crash-proof dropdowns across all Job Work screens (Scrap Out, Ingot Return, Dispatch, and Khata Ledger) with defensive data fallbacks and spacious UI."
 }
