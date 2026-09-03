@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "versionCode": 20,
-  "releaseNotes": "1) 100% PC ERP Calculation Parity: Freight Rate/Kg x Weight bidirectional sync, Discount %/Amount bidirectional sync, Add Surcharge (+). 2) Purchase & Sale Invoices 1:1 match with PC ERP. 3) HSN Average Rate & TCS additions. 4) Accurate Postgres stock sync.",
+  "version": "1.0.21",
+  "versionCode": 22,
+  "releaseNotes": "Fix build: resolve duplicate _loadBillIntoForm and palat/border references in Purchase screen; enable tap-to-load.",
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "publishedDate": "2026-09-03"
 }
