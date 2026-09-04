@@ -1,6 +1,6 @@
 {
-  "version": "1.0.39",
-  "versionCode": 40,
+  "version": "1.0.40",
+  "versionCode": 41,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Hotfix: Reverted JSON payload cleanup that broke offline UI state and fixed the grossWeight mapping issue to accurately sync weights to the backend."
+  "releaseNotes": "Finalized full PC-Parity CRUD update: Enabled seamless Edit/Delete across Purchases, Sales, Production, Vouchers, and Job Work. Fixed missing Sales and Voucher payload fields."
 }
