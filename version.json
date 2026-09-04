@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "versionCode": 41,
+  "version": "1.0.41",
+  "versionCode": 42,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Finalized full PC-Parity CRUD update: Enabled seamless Edit/Delete across Purchases, Sales, Production, Vouchers, and Job Work. Fixed missing Sales and Voucher payload fields."
+  "releaseNotes": "A to Z Full PC-Parity Release (v1.0.41):\n\u2022 Fully working Sales, Purchase, Production, Vouchers & Job Work\n\u2022 Complete Employee & HR Center with Permissions & KYC\n\u2022 Bank & Cash Masters with Dynamic Balance Calculation\n\u2022 Multi-Firm Switching & Live ERP Synchronization\n\u2022 Automated In-App Update Engine"
 }
