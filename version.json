@@ -1,6 +1,6 @@
 {
-  "version": "1.0.42",
-  "versionCode": 43,
+  "version": "1.0.43",
+  "versionCode": 44,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.42:\n\u2022 100% Bug-Free QR Code Scanner & PC Linking Engine\n\u2022 Clean Authentication Flow without hardcoded auto-logins\n\u2022 Support for PC Employee Master (Tab 4) QR pairing\n\u2022 Auto-Backup disabled to ensure fresh install state on reinstall"
+  "releaseNotes": "Mansi Metals ERP v1.0.43:\n\u2022 Role-Adaptive QR Access (Admin / Operator / Employee)\n\u2022 Dedicated Employee Portal with Live Attendance Punch & Salary Khata\n\u2022 Dedicated Furnace & Production Operator Console\n\u2022 Super Admin Full Executive ERP Access\n\u2022 100% Bug-Free Dynamic Auto-Updater & QR Pairing"
 }
