@@ -1,6 +1,6 @@
 {
-  "version": "1.0.49",
-  "versionCode": 50,
+  "version": "1.0.50",
+  "versionCode": 51,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.49:\n\u2022 Server-Driven RBAC: Module grid & drawer now filtered by PC ERP permission flags\n\u2022 Security Fix: No more admin dashboard flash for workers/operators on login\n\u2022 Permission-Gated Modules: Transactions, Melting, JobWork, Reports, Masters, HR, Settings\n\u2022 Gujarati 'No Access' message when all modules are restricted"
+  "releaseNotes": "Mansi Metals ERP v1.0.50:\n\u2022 Granular RBAC: Sub-permission support for Purchase, Sales, Accounts & Stock under Transactions\n\u2022 Quick Actions filtered: Quick action buttons now respect individual sub-permissions\n\u2022 Worker / Helper Auto-Detection: Pure workers automatically open Employee Self-Portal (Attendance, Upad, Salary)\n\u2022 True Admin vs Staff distinction: Office staff only see permitted modules while Super Admin retains full oversight"
 }
