@@ -1,6 +1,6 @@
 {
-  "version": "1.0.47",
-  "versionCode": 48,
+  "version": "1.0.48",
+  "versionCode": 49,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.47:\n\u2022 Fixed compiler issues and strict AllowedFirms mapping\n\u2022 Strict Employee multi-company isolation from PC Master\n\u2022 1-Tap Active Role Switcher in AppBar"
+  "releaseNotes": "Mansi Metals ERP v1.0.48:\n\u2022 Strictly Locked Role Security: Removed all client-side role switching\n\u2022 Pure PC ERP Master Authorization: Worker/Operator cannot switch or promote roles\n\u2022 Clean Read-Only Security Profile & ID Card Modal"
 }
