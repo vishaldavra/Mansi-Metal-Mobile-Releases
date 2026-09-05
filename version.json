@@ -1,6 +1,6 @@
 {
-  "version": "1.0.43",
-  "versionCode": 44,
+  "version": "1.0.44",
+  "versionCode": 45,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.43:\n\u2022 Role-Adaptive QR Access (Admin / Operator / Employee)\n\u2022 Dedicated Employee Portal with Live Attendance Punch & Salary Khata\n\u2022 Dedicated Furnace & Production Operator Console\n\u2022 Super Admin Full Executive ERP Access\n\u2022 100% Bug-Free Dynamic Auto-Updater & QR Pairing"
+  "releaseNotes": "Mansi Metals ERP v1.0.44:\n\u2022 Dynamic Multi-Tier Parent-Child Role Resolution (Department \u00d7 Designation)\n\u2022 Dynamic Piece-Rate (Per KG/Batch) vs Fixed 30-Day Salary Khata Calculation\n\u2022 Zero-Flash Startup Gate for non-admin accounts\n\u2022 100% Bug-Free Reconnecting Auto-Updater"
 }
