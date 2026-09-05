@@ -1,6 +1,6 @@
 {
-  "version": "1.0.48",
-  "versionCode": 49,
+  "version": "1.0.49",
+  "versionCode": 50,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.48:\n\u2022 Strictly Locked Role Security: Removed all client-side role switching\n\u2022 Pure PC ERP Master Authorization: Worker/Operator cannot switch or promote roles\n\u2022 Clean Read-Only Security Profile & ID Card Modal"
+  "releaseNotes": "Mansi Metals ERP v1.0.49:\n\u2022 Server-Driven RBAC: Module grid & drawer now filtered by PC ERP permission flags\n\u2022 Security Fix: No more admin dashboard flash for workers/operators on login\n\u2022 Permission-Gated Modules: Transactions, Melting, JobWork, Reports, Masters, HR, Settings\n\u2022 Gujarati 'No Access' message when all modules are restricted"
 }
