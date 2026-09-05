@@ -1,6 +1,6 @@
 {
-  "version": "1.0.51",
-  "versionCode": 52,
+  "version": "1.0.53",
+  "versionCode": 54,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
   "releaseNotes": "Mansi Metals ERP v1.0.51:\n\u2022 Granular Sub-Permissions Across All 7 Modules: Transactions, Job Work, Melting/Production, Masters, Reports, HR & Payroll, and System Settings\n\u2022 Bidirectional Access Resolution: Sub-modules automatically unlock parent hub access and preserve strict sub-feature isolation\n\u2022 Seamless Multi-Firm Support: Granular roles & permissions work across all allocated workspaces"
 }
