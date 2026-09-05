@@ -1,6 +1,6 @@
 {
-  "version": "1.0.44",
-  "versionCode": 45,
+  "version": "1.0.47",
+  "versionCode": 48,
   "downloadUrl": "https://github.com/vishaldavra/Mansi-Metal-Mobile-Releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Mansi Metals ERP v1.0.44:\n\u2022 Dynamic Multi-Tier Parent-Child Role Resolution (Department \u00d7 Designation)\n\u2022 Dynamic Piece-Rate (Per KG/Batch) vs Fixed 30-Day Salary Khata Calculation\n\u2022 Zero-Flash Startup Gate for non-admin accounts\n\u2022 100% Bug-Free Reconnecting Auto-Updater"
+  "releaseNotes": "Mansi Metals ERP v1.0.47:\n\u2022 Fixed compiler issues and strict AllowedFirms mapping\n\u2022 Strict Employee multi-company isolation from PC Master\n\u2022 1-Tap Active Role Switcher in AppBar"
 }
